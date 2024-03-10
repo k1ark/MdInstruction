@@ -28,3 +28,4 @@
 
 [Github](https://github.com/)
 
+написал это с др пк.
